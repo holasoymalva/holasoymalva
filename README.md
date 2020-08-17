@@ -1,11 +1,9 @@
 
-
-### Hi, I'm Martin 🦄
-
 <div align="center">
   <img src="http://www.nyan.cat/cats/original.gif" height="128">
 </div>
 
+## Hi, I'm Martin 🦄
 #### I'm a SoftWare Engineer based in Mexico City.
 
 - 🏢 I'm currently working full-time at **Grupo Salinas**
