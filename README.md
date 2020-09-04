@@ -20,3 +20,12 @@
 - ⚗️   FastApi and Django (Python)
 - 🏮  P5js & ML.js
 - 🧶  Google Colab
+
+
+### 🗝 My magic stack in 2019 🗝 is:
+
+- ⚛︎  React.js 
+- 🎍 Mobx & Rxjs
+- 🤖  Messenger Platform & Chatbots
+- 🐍  Flask (Python)
+- 📚  Google Colab
