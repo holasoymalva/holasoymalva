@@ -20,7 +20,7 @@
 - ⚗️   FastApi and Django (Python)
 - 🏮  P5js & ML.js
 - 🧶  Google Colab
-- 🎾  Vue.js
+- 🎾  Vue.js & ⚛︎ React.js 
 
 
 ### 🗝 My magic stack in 2019 🗝 is:
