@@ -16,10 +16,11 @@
 
 - 🍄  Angular 8 - 9 - 10
 - 🧿  Messenger Platform & Chatbots
-- 📯  Node.js and Express
+- 👷🏽‍♂️  Node.js and Express
 - ⚗️   FastApi and Django (Python)
 - 🏮  P5js & ML.js
 - 🧶  Google Colab
+- 🎾  Vue.js
 
 
 ### 🗝 My magic stack in 2019 🗝 is:
