@@ -2,7 +2,7 @@
 
 
 ## Hi, I'm Martin 🦄
-#### I'm a Software Engineer based in Mexico City.
+#### & I'm a Software Engineer based in Mexico City.
 
 <div>
   <img src="http://www.nyan.cat/cats/original.gif" height="128">
@@ -14,6 +14,7 @@
 
 ### 🔮 My magic stack in 2020 🔮 is:
 
+- 👁  Spark AR Studio
 - 🍄  Angular 8 - 9 - 10
 - 🧿  Messenger Platform & Chatbots
 - 👷🏽‍♂️  Node.js and Express
