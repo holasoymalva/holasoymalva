@@ -31,3 +31,12 @@
 - 🤖  Messenger Platform & Chatbots
 - 🐍  Flask (Python)
 - 📚  Google Colab
+- 404
+
+### 🗝 My magic stack before 2019 👨🏻‍💻 is:
+
+- 404 404 404 404 404 404 404 404 404 404
+- 404 404 404 404 404 404 404 404 404 404
+- 404 404 404 404 404 404 404 404 404 404
+- 404 404 404 404 404 404 404 404 404 404
+- I really hate what I did before 2019 ... not a joke
