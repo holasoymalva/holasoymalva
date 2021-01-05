@@ -14,9 +14,11 @@
 
 ### 🧠 My magic stack in 2021 🧠 is:
 
+- 🧠 Brain . JS 🧠
 - 🍄 Angular 9 - 10
 - ⚛︎ React Native 
 - ⛅️ Google Cloud Platform
+- 👟 Azure Cloud Services
 
 ### 🔮 My magic stack in 2020 🔮 is:
 
