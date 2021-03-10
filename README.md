@@ -8,7 +8,7 @@
   <img src="http://www.nyan.cat/cats/original.gif" height="128">
 </div>
 
-- 🏢 I'm currently working full-time at **Grupo Salinas** and study a [DEDP Master's Program at MIT](https://economics.mit.edu/masters?utm_medium=partner-marketing&utm_source=email&utm_campaign=mitx&utm_content=mm-dedp-sp21-email-4).
+- 🏢 I'm currently working full-time at **Globant** and study a [DEDP Master's Program at MIT](https://economics.mit.edu/masters?utm_medium=partner-marketing&utm_source=email&utm_campaign=mitx&utm_content=mm-dedp-sp21-email-4).
 - 🧙‍♂️ I use daily: `.py`, `.js`,`.ts`, `.json`, `.html`, `.scss`, `.yml`, `.sql`
 - Active community member of: [Facebook Developer Circles](https://www.facebook.com/groups/DevCCiudaddeMexico/), [Google Developer Groups](https://www.youtube.com/watch?v=r2yMb-v0wek), [NodeShool](https://github.com/nodeschool), [Mozilla Contributors](https://developer.mozilla.org/es/profiles/PatoDeTuring) and [GitKraken Community](https://events.darry.codes/github?fbclid=IwAR1NKd93OCXOpucE5Ay9fENf3iOA_Ynep5XAChMj5VKOQB-CiY93P3NDYlo).
 
