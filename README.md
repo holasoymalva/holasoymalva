@@ -2,7 +2,7 @@
 
 
 ## Hi, I'm Martin 🦄
-#### & I'm a Software Engineer based in Mexico City.
+#### & I'm a Software Engineer based in Latam.
 
 <div>
   <img src="http://www.nyan.cat/cats/original.gif" height="128">
