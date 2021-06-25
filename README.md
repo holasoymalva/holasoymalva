@@ -17,7 +17,7 @@
 - 🌳 Node & Mongo 
 - 🃏 Jest & Yarn 🐈
 - ⚛︎ React & React Native
-- - 🍄 Angular 9 - 10 - 12
+- 🅰️ Angular 9 - 10 - 12
 - ⛅️ Google & Azure Cloud Platform
 - 🫐 Heroku & Versel
 - 🧶 P5js & Brain . JS 🧠
