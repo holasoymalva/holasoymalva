@@ -15,13 +15,12 @@
 ### 🧠 My magic stack in 2021 🧠 is:
 
 - 🌳 Node & Mongo 
-- 🍄 Angular 9 - 10
+- 🃏 Jest & Yarn 🐈
 - ⚛︎ React & React Native
-- ⛅️ Google Cloud Platform
-- 👟 Azure Cloud Services
+- - 🍄 Angular 9 - 10 - 12
+- ⛅️ Google & Azure Cloud Platform
 - 🫐 Heroku & Versel
-- 🧶 P5js & ML.js
-- 🧠 Brain . JS 🧠
+- 🧶 P5js & Brain . JS 🧠
 
 ### 🔮 My magic stack in 2020 🔮 is:
 
