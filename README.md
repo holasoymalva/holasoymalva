@@ -2,7 +2,7 @@
 
 
 ## `<HelloWorld 🖖>` , I'm Martin 🦄
-#### & I'm a Software Engineer based in Latam  🇲🇽.
+#### & I'm a Software Engineer based in Latam  🇲🇽. See my work in [Codepen.io](https://codepen.io/malvabombom)
 
 <div>
   <h2><img src="http://www.nyan.cat/cats/original.gif" alt="computer" width="90"> I'm currently ...</h2>
