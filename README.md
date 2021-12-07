@@ -17,42 +17,27 @@
 
 ### 🧠 My magic stack in 2021 🧠 is:
 
-- 🌳 Node & Mongo 
-- 🃏 Jest & Yarn 🐈
+- 🌳 Node & Mongo / 🃏 Jest & Yarn 🐈
 - ⚛︎ React & React Native
 - 🅰️ Angular 9 - 10 - 12
 - 🪀 Vue.js & Vuex
 - ⛅️ Google & Azure Cloud Platform
-- 🫐 Heroku & Versel
 - 🧶 P5js & Brain . JS 🧠
 
 ### 🔮 My magic stack in 2020 🔮 is:
 
-- 👁  Spark AR Studio
-- 🍄  Angular 8 - 9 - 10
+- 🎾  Vue.js / ⚛︎ React.js / 🍄  Angular 8-10
 - 🧿  Messenger Platform & Chatbots
 - 👷🏽‍♂️  Node.js and Express
 - ⚗️   FastApi and Django (Python)
 - 🏮  P5js & ML.js
-- 🧶  Google Colab
-- 🎾  Vue.js & ⚛︎ React.js 
+- 👁  Spark AR Studio
 
 
 ### 🗝 My magic stack in 2019 🗝 is:
 
-- ⚛︎  React.js 
-- 🎍 Mobx & Rxjs
+- ⚛︎  React.js & 🎍 Mobx & Rxjs
 - 🤖  Messenger Platform & Chatbots
-- 🐍  Flask (Python)
-- 📚  Google Colab
-- 404
-
-### 🗝 My magic stack before 2019 👨🏻‍💻 is:
-
-- 404 404 404 404 404 404
-- 404 404 404 404 404 404
-- 404 404 404 404 404 404
-- 404 404 404 404 404 404
-- I really hate what I did before 2019 ... not a joke.
+- 🐍  Flask (Python) & 📚  Google Colab
 
 ## `</HelloWorld 🖖>`
