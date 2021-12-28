@@ -11,10 +11,6 @@
 - 🧙‍♂️ Using daily: `.py`, `.js`,`.ts`, `.json`, `.html`, `.scss`, `.yml`, `.sql`
 - 👤 An active community member of: [Facebook Developer Circles](https://www.facebook.com/groups/DevCCiudaddeMexico/), [Google Developer Groups](https://www.youtube.com/watch?v=r2yMb-v0wek), [NodeShool](https://github.com/nodeschool), [Mozilla Contributors](https://developer.mozilla.org/es/profiles/PatoDeTuring), [GitKraken Community](https://events.darry.codes/github?fbclid=IwAR1NKd93OCXOpucE5Ay9fENf3iOA_Ynep5XAChMj5VKOQB-CiY93P3NDYlo) & [Huawei Developer Group](https://developer.huawei.com/consumer/en/programs/hdg/).
 
-<p style="text-align:center;">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=malvabombom&show_icons=true" alt="malvabombom stats" /></p>
-
-
-
 ### 🧠 My magic stack in 2021 🧠 is:
 
 - 🌳 Node & Mongo / 🃏 Jest & Yarn 🐈
