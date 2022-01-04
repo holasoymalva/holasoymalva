@@ -6,7 +6,7 @@
   <h2><img src="http://www.nyan.cat/cats/original.gif" alt="computer" width="80"> I'm currently ...</h2>
 </div>
 
-- 🛸 Working full-time at **Globant** and study a [DEDP Master's Program at MIT](https://economics.mit.edu/masters?utm_medium=partner-marketing&utm_source=email&utm_campaign=mitx&utm_content=mm-dedp-sp21-email-4) and a [MicroBachelors® Program in Computer Science](https://www.sps.nyu.edu/homepage/academics/divisions-and-departments/division-of-applied-undergraduate-studies/credit-for-nyux-microbachelors-programs.html).
+- 🛸 Working full-time at **Globant** while I study a [DEDP Master's Program at MIT](https://economics.mit.edu/masters?utm_medium=partner-marketing&utm_source=email&utm_campaign=mitx&utm_content=mm-dedp-sp21-email-4) and a [MicroBachelors® Program in Computer Science](https://www.sps.nyu.edu/homepage/academics/divisions-and-departments/division-of-applied-undergraduate-studies/credit-for-nyux-microbachelors-programs.html).
 
 - 🧙‍♂️ Using daily: `.py`, `.js`,`.ts`, `.json`, `.html`, `.scss`, `.yml`, `.sql`
 
