@@ -12,12 +12,12 @@
 
 ### 🔮 My magic stack in 2022 🔮 is:
 
-- 🌳 Node & Mongo / 🃏 Jest & Yarn 🐈
-- ⚛︎ React & React Native
-- 🅰️ Angular 9 - 10 - 12
-- 🪀 Vue.js & Vuex
-- ⛅️ Google & Azure Cloud Platform
-- 🧶 P5js & Brain . JS 🧠
+- 🌳  Node & Mongo / 🃏 Jest & Yarn 🐈
+-  ⚛︎  React & React Native
+- 🅰️  Angular 9 - 10 - 12
+- 🪀  Vue.js & Vuex
+- ⛅️  Google & Azure Cloud Platform
+- 🧶  P5 & Brain.JS 🧠
 - 👁  Spark AR Studio
 - 🧿  Messenger Platform & Chatbots
 - ⚗️   Flask, Pytorch and Django (Python)
