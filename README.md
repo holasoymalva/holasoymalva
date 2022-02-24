@@ -1,6 +1,6 @@
-## `<HelloWorld 🖖>`  I'm Martin 🦄
+<h2 align='center'><code>< HelloWorld 🖖 ></code>   I'm Martin 🦄</h2>
 
-#### & I'm a Software Engineer based in Latam trying to be a recognized chef 👨‍🍳 , but while figuring out how to turning on the stove I happily develop software 🧑🏽‍💻
+<h3 align='center'> I'm a Software Engineer based in Latam trying to be a recognized chef 👨‍🍳 , but while figuring out how to turning on the stove I happily develop software 🧑🏽‍💻 </h3>
 
 <div>
   <h2><img src="http://www.nyan.cat/cats/original.gif" alt="computer" width="60"> I'm currently ...</h2>
@@ -22,4 +22,4 @@
 - 🧿  Messenger Platform & Chatbots
 - ⚗️   Flask, Pytorch and Django (Python)
 
-## `</HelloWorld 🖖>`
+<h2 align='center'><code>< /HelloWorld 🖖 ></code></h2>
