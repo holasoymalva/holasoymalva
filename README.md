@@ -20,5 +20,6 @@
 - 👁  Spark AR Studio
 - 🧿  Messenger Platform & Chatbots
 - ⚗️   Flask, Pytorch and Django (Python)
+- 🧮  Colab and Tensorflow
 
 <h2 align='center'><code>< /HelloWorld 🖖 ></code></h2>
