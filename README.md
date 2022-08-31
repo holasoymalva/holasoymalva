@@ -7,7 +7,7 @@
 </div>
 
 - 🛸 Working full-time at **Globant** 🧉 while I study a [MicroBachelors® in Computer Science][nyu-link] at NYU🗽.
-- 🧙‍♂️ Using daily: `.py`, `.js`,`.ts`, `.json`, `.html`, `.scss`, `.yml`, `.sql`
+- 🧙‍♂️ Using daily: `.py` `.js` `.ts` `.json` `.html` `.scss` `.yml` `.sql` `.java`
 
 ### 🔮 My magic stack in 2022 🔮 is:
 
