@@ -6,7 +6,7 @@
   <h2><img src="http://www.nyan.cat/cats/original.gif" alt="computer" width="60"> I'm currently ...</h2>
 </div>
 
-- 🛸 Working full-time at **Globant** 🧉 while I study a [MicroBachelors® in Computer Science](https://www.sps.nyu.edu/homepage/academics/divisions-and-departments/division-of-applied-undergraduate-studies/credit-for-nyux-microbachelors-programs.html) at NYU🗽.
+- 🛸 Working full-time at **Globant** 🧉 while I study a [MicroBachelors® in Computer Science][NYU] at NYU🗽.
 - 🧙‍♂️ Using daily: `.py`, `.js`,`.ts`, `.json`, `.html`, `.scss`, `.yml`, `.sql`
 
 ### 🔮 My magic stack in 2022 🔮 is:
@@ -23,3 +23,6 @@
 - 🧮  Colab and Tensorflow
 
 <h2 align='center'><code>< /HelloWorld 🖖 ></code></h2>
+
+
+[NYU]: https://www.sps.nyu.edu/homepage/academics/divisions-and-departments/division-of-applied-undergraduate-studies/credit-for-nyux-microbachelors-programs.html
