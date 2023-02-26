@@ -6,7 +6,7 @@
   <h2><img src="http://www.nyan.cat/cats/original.gif" alt="computer" width="60"> I'm currently ...</h2>
 </div>
 
-- 🛸 Working full-time at **Globant** 🧉 while I study a [MicroBachelors® in Computer Science][nyu-link] at NYU🗽.
+- 🛸 Working full-time while I study a [MicroBachelors® in Computer Science][nyu-link] at NYU🗽.
 - 🧙‍♂️ Using daily: `.py` `.js` `.ts` `.json` `.html` `.scss` `.yml` `.sql` `.java` `.bash`
 
 ### 🔮 My magic stack in 2022 🔮 is:
@@ -36,7 +36,7 @@
 
 [nyu-link]: https://www.sps.nyu.edu/homepage/academics/divisions-and-departments/division-of-applied-undergraduate-studies/credit-for-nyux-microbachelors-programs.html
 [in-link]: https://www.linkedin.com/in/martin-manriquez-899877177/
-[ig-link]: https://www.instagram.com/malvabombom/
-[tt-link]: https://www.tiktok.com/@malvabombom
+[ig-link]: https://www.instagram.com/holasoymalva/
+[tt-link]: https://www.tiktok.com/@holasoymalva
 [cn-link]: https://codepen.io/malvabombom
 
