@@ -9,10 +9,10 @@
 - 🛸 Working full-time while I study a [MicroBachelors® in Computer Science][nyu-link] at NYU🗽.
 - 🧙‍♂️ Using daily: `.py` `.js` `.ts` `.json` `.html` `.scss` `.yml` `.sql` `.java` `.bash`
 
-### 🔮 My magic stack in 2022 🔮 is:
+### 🔮 My magic stack in 2023 🔮 is:
 
 - 🌳  Node & Mongo / 🃏 Jest & Yarn 🐈
--  ⚛︎  React & React Native
+-  ⚛︎  React & React Native & Next 
 - 🅰️  Angular 9 - 10 - 12
 - 🪀  Vue.js & Vuex
 - ⛅️  Google & Azure Cloud Platform
