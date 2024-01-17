@@ -9,18 +9,21 @@
 - 🛸 Working full-time while I study a [MicroBachelors® in Computer Science][nyu-link] at NYU🗽.
 - 🧙‍♂️ Using daily: `.py` `.js` `.ts` `.json` `.html` `.scss` `.yml` `.sql` `.java` `.bash`
 
-### 🔮 My magic stack in 2023 🔮 is:
+### 🔮 My magic stack in 2024 🔮 is:
 
-- 🌳  Node & Mongo / 🃏 Jest & Yarn 🐈
--  ⚛︎  React & React Native & Next 
-- 🅰️  Angular 9 - 10 - 12
+- 🌳  Node + Express & Mongo
+-  ☕️  Java SE + SpringBoot + Maven + OpenJDK
+-  🅰️ Angular 2 -> 14
+-  ⚛︎  React.js & Next
+-  ⚗️  Flask and Django (Python)
 - 🪀  Vue.js & Vuex
 - ⛅️  Google & Azure Cloud Platform
 - 🧶  P5 & Brain.JS 🧠
-- 👁  Spark AR Studio
+- 👁  Spark AR Studio 
 - 🧿  Messenger Platform & Chatbots
-- ⚗️   Flask, Pytorch and Django (Python)
-- 🧮  Colab and Tensorflow
+- 🧮  Google Colab
+- 🐳  Docker
+- 🃏 Jest & Yarn 🐈
 
 ### 🦄 Contact Me:
 
