@@ -37,7 +37,7 @@
 [cn]: https://img.shields.io/badge/codepen-000000?style=flat-square&logo=codepen&logoColor=white
 
 [nyu-link]: https://www.sps.nyu.edu/homepage/academics/divisions-and-departments/division-of-applied-undergraduate-studies/credit-for-nyux-microbachelors-programs.html
-[in-link]: https://www.linkedin.com/in/martin-manriquez-899877177/
+[in-link]: https://www.linkedin.com/in/martin-manriquez/
 [ig-link]: https://www.instagram.com/holasoymalva/
 [tt-link]: https://www.tiktok.com/@holasoymalva
 [cn-link]: https://codepen.io/malvabombom
