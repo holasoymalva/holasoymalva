@@ -7,7 +7,7 @@
 </div>
 
 - 🛸 Working full-time while I study a [MicroBachelors® in Computer Science][nyu-link] at NYU🗽.
-- 🧙‍♂️ Using daily: `.py` `.js` `.ts` `.json` `.html` `.scss` `.yml` `.sql` `.java` `.bash`
+- 🧙‍♂️ Using daily: `.py` `.js` `.ts` `.swift` `.json` `.html` `.scss` `.yml` `.sql` `.java` `.bash`
 
 ### 🔮 My magic stack in 2025 🔮 is:
 
