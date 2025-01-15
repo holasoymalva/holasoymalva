@@ -12,17 +12,19 @@
 ### 🔮 My magic stack in 2025 🔮 is:
 
 - 🌳 Node.js + Express & Mongo
-- ☕️ Java SE + SpringBoot + Maven + OpenJDK
-- 🅰️ Angular 2 -> 17
 - ⚛︎  React.js & Next.js
+- 🅰️ Angular 2 -> 17
+- 🍎 IOs Developer - Swift & React Native
+- 🐳 Docker & Jenkins
+- 🃏 Jest & Yarn 🐈
 - ⚗️ Flask and Django (Python)
 - 🪀 Vue.js & Vuex
 - ⛅️ Google & Azure Cloud Platform
 - 🧶 P5 & Brain.JS 🧠
 - 🧿 Messenger Platform & Chatbots
 - 🧮 Google Colab
-- 🐳 Docker & Jenkins
-- 🃏 Jest & Yarn 🐈
+- ☕️ Java SE + SpringBoot + Maven + OpenJDK
+
 
 ### 🦄 Contact Me:
 
