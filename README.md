@@ -14,7 +14,7 @@
 - 🌳 Node.js + Express & Mongo
 - ⚛︎  React.js & Next.js
 - 🅰️ Angular 2 -> 17
-- 🍎 IOs Developer - Swift & React Native
+- 🍎 IOs - Swift & React Native
 - 🐳 Docker & Jenkins
 - 🃏 Jest & Yarn 🐈
 - ⚗️ Flask and Django (Python)
