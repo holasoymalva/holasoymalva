@@ -11,13 +11,13 @@
 
 ### 🔮 My magic stack in 2025 🔮 is:
 
-- 🎨Frontend: Angular 2 -> 17 | React.js | Next.js | Vue.js & Vuex
-- 💻Backend: Node.js + Express | Java SE + SpringBoot | Flask and Django (Python)
-- 🧠IA: Chatbots Development | LLMS integrations
-- 🗄️Database: MongoDB | PostgresSql  
-- 🍎Mobile: IOs - Swift | React Native
-- ⛅️Cloud: GCP | AWS | Docker & Jenkins
-- 🃏Unit testing: Jest & Yarn 🐈
+- 🎨**Front End**: Angular 2 -> 17 | React.js | Next.js | Vue.js & Vuex
+- 💻**Back End**: Node.js + Express | Java SE + SpringBoot | Flask and Django (Python)
+- 🧠**IA**: Chatbots Development | LLMS integrations
+- 🗄️**Database**: MongoDB | PostgresSql  
+- 🍎**Mobile**: IOs - Swift | React Native
+- ⛅️**Cloud**: GCP | AWS | Docker & Jenkins
+- 🃏**Unit testing**: Jest & Yarn 🐈
 
 ### 🦄 Contact Me:
 
