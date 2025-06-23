@@ -35,7 +35,7 @@
 
 | Frontend                  | Backend                | AI / Cloud         | Mobile         | Database      | Testing    |
 |---------------------------|------------------------|--------------------|---------------|--------------|------------|
-| Angular (2-17), React, Vue| Node.js, Express, Java, SpringBoot, Flask, Django | GCP, AWS, Docker, Jenkins, LLMs | iOS (Swift), React Native | MongoDB, PostgreSQL | Jest, Yarn |
+| Angular (2-19), React, Vue| Node.js, Express, Java, SpringBoot, Flask, Django | GCP, AWS, Docker, Jenkins, LLMs | iOS (Swift), React Native | MongoDB, PostgreSQL | Jest, Yarn |
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,py,java,swift,html,css,react,angular,nodejs,docker,aws,gcp,mongodb,postgres,vue,spring,jenkins" />
