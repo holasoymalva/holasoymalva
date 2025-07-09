@@ -9,12 +9,6 @@
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
-  <img src="https://img.shields.io/badge/tiktok-000000?style=flat-square&logo=tiktok&logoColor=white" />
-  <img src="https://img.shields.io/badge/codepen-000000?style=flat-square&logo=codepen&logoColor=white" />
-</p>
-
-<p align="center">
   <a href="https://www.linkedin.com/in/martin-manriquez/">LinkedIn</a> •
   <a href="https://www.tiktok.com/@holasoymalva">TikTok</a> •
   <a href="https://codepen.io/malvabombom">CodePen</a>
