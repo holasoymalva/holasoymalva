@@ -43,17 +43,6 @@
 - 🍰 Dessert recipes (and how not to burn them!)
 - 🧩 New microservices architectures
 
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=holasoymalva&show_icons=true&theme=radical" alt="holasoymalva's GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=holasoymalva&theme=radical" alt="holasoymalva's streak stats" />
-</p>
-
----
-
 ## 🦄 Let's Connect!
 
 - Got a crazy idea? Let's talk!
