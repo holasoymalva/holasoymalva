@@ -1,10 +1,7 @@
-<!-- Animated banner or featured image -->
-<p align="center">
-  <img src="https://media.giphy.com/media/26ufnwz3wDUli7GU0/giphy.gif" width="300" alt="Coding Cat"/>
-</p>
 
-<h1 align="center">👋🏼 Hello World! I'm <span style="color:#7c3aed;">Martin Manriquez Leon</span> (holasoymalva) 🦄</h1>
-<h3 align="center">Software Engineer from LATAM | Aspiring Chef 👨‍🍳 | Code Enthusiast 🧑🏽‍💻</h3>
+
+<h1 align="center">👋🏼 Hello World! I'm <span style="color:#7c3aed;">Martin Manriquez </span> (holasoymalva) 🦄</h1>
+<h3 align="center">Software Engineer | Code Enthusiast 🧑🏽‍💻</h3>
 
 ---
 
@@ -19,7 +16,6 @@
 ## 🚀 About Me
 
 - 🛸 Full-time developer & [NYU MicroBachelors® in Computer Science](https://www.sps.nyu.edu/homepage/academics/divisions-and-departments/division-of-applied-undergraduate-studies/credit-for-nyux-microbachelors-programs.html) student.
-- 👨‍🍳 Trying not to burn the kitchen while compiling code.
 - 🧑🏽‍💻 Passionate about building software, AI, and creating memorable digital experiences.
 - 🌎 Proudly LATAM.
 
@@ -40,8 +36,8 @@
 ## 🌱 Currently Learning
 
 - 🤖 LLMs & chatbot integrations
-- 🍰 Dessert recipes (and how not to burn them!)
 - 🧩 New microservices architectures
+- 🏗️ System Desing and Cloud Services
 
 ## 🦄 Let's Connect!
 
