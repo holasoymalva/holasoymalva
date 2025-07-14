@@ -15,7 +15,7 @@
 
 ## 🚀 About Me
 
-- 🛸 Full-time developer & [NYU MicroBachelors® in Computer Science](https://www.sps.nyu.edu/homepage/academics/divisions-and-departments/division-of-applied-undergraduate-studies/credit-for-nyux-microbachelors-programs.html) student.
+- 🛸 Full-time Software Engineer.
 - 🧑🏽‍💻 Passionate about building software, AI, and creating memorable digital experiences.
 - 🌎 Proudly LATAM.
 
