@@ -1,6 +1,6 @@
 
 
-<h1 align="center">👋🏼 Hello World! I'm <span style="color:#7c3aed;">Martin Manriquez </span> (holasoymalva) 🦄</h1>
+<h1 align="center">👋🏼 Hello World! I'm <span style="color:#7c3aed;">Martin </span> (holasoymalva) 🦄</h1>
 <h3 align="center">Software Engineer | Code Enthusiast 🧑🏽‍💻</h3>
 
 ---
