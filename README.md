@@ -8,7 +8,9 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/martin-manriquez/">LinkedIn</a> •
   <a href="https://www.tiktok.com/@holasoymalva">TikTok</a> •
-  <a href="https://codepen.io/malvabombom">CodePen</a>
+  <a href="https://codepen.io/malvabombom">CodePen</a> •
+  <a href="https://www.codewars.com/users/holasoymalva">Codewars</a> •
+  <a href="https://leetcode.com/u/holasoymalva/">LeetCode</a>
 </p>
 
 ---
