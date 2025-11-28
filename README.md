@@ -9,7 +9,7 @@
   <a href="https://www.linkedin.com/in/martin-manriquez/">LinkedIn</a> •
   <a href="https://leetcode.com/u/holasoymalva/">LeetCode</a> •
   <a href="https://www.tiktok.com/@holasoymalva">TikTok</a> •
-  <a href="https://youtube.com/holasoymalva">Youtube</a>
+  <a href="https://www.youtube.com/@holasoymalva">Youtube</a>
 </p>
 
 ---
