@@ -1,3 +1,3 @@
 <p align="center">
-  <img src="profile.svg" alt="Hacker Profile" width="850">
+  <img src="profile.svg" alt="Hacker Profile" width="994">
 </p>
