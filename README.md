@@ -1,4 +1,4 @@
-<img width="850" height="489" alt="profile (2)" src="https://github.com/user-attachments/assets/8eb8dc8f-5bb8-49da-bfe7-5ccd9f565492" />
+<img width="850" height="489" alt="profile (2)" src="https://github.com/user-attachments/assets/98f70b48-e196-4c2b-ad50-95a7432a5419" />
 <svg xmlns="http://www.w3.org/2000/svg" width="850" height="489" viewBox="0 0 850 489">
   <style>
     .terminal {
