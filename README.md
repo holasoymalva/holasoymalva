@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="profile.svg" alt="Hacker Profile" width="994">
+  <img src="profile.svg" alt="Hacker Profile" width="1049">
 </p>
 
 <p align="center">
