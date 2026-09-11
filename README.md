@@ -9,7 +9,7 @@
 - 🛸 Working full-time while I study a [MicroBachelors® in Computer Science][nyu-link] at NYU🗽.
 - 🧙‍♂️ Using daily: `.py` `.js` `.ts` `.swift` `.json` `.html` `.scss` `.yml` `.sql` `.java` `.bash`
 
-### 🔮 My magic stack in 2025 🔮 is:
+### 🔮 My magic stack 🔮 is:
 
 - 🎨**Front End**: Angular 2 -> 17 | React.js | Next.js | Vue.js & Vuex
 - 💻**Back End**: Node.js + Express | Java SE + SpringBoot | Flask and Django (Python)
@@ -21,7 +21,7 @@
 
 ### 🦄 Contact Me:
 
-[![in]][in-link] [![ig]][ig-link] [![tt]][tt-link] [![cn]][cn-link]
+[![in]][in-link] [![ig]][ig-link] [![tt]][tt-link]
 
 <h2 align='center'><code>< /HelloWorld 🖖 ></code></h2>
 
@@ -29,10 +29,8 @@
 [ig]: https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white
 [fb]: https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white
 [tt]: https://img.shields.io/badge/tiktok-000000?style=flat-square&logo=tiktok&logoColor=white
-[cn]: https://img.shields.io/badge/codepen-000000?style=flat-square&logo=codepen&logoColor=white
 
 [nyu-link]: https://www.sps.nyu.edu/homepage/academics/divisions-and-departments/division-of-applied-undergraduate-studies/credit-for-nyux-microbachelors-programs.html
 [in-link]: https://www.linkedin.com/in/martin-manriquez/
 [ig-link]: https://www.instagram.com/holasoymalva/
 [tt-link]: https://www.tiktok.com/@holasoymalva
-[cn-link]: https://codepen.io/malvabombom
