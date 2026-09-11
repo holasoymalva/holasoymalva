@@ -6,7 +6,7 @@
   <h2><img src="http://www.nyan.cat/cats/original.gif" alt="computer" width="60"> I'm currently ...</h2>
 </div>
 
-- 🛸 Working full-time at @nexcar.ai .
+- 🛸 Working full-time at [@nexcar.ai](https://github.com/nexcar-ai) .
 - 🧙‍♂️ Using daily: `.py` `.js` `.ts` `.swift` `.json` `.html` `.scss` `.yml` `.sql` `.java` `.bash`
 
 ### 🔮 My magic stack 🔮 is:
